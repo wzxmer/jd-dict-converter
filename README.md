@@ -265,6 +265,4 @@ python py2jd.py
 <div align="center">
 **如果这个项目对你有帮助，请给一个 ⭐ Star 支持一下！**
 
-Made with ❤️ by [Your Name]
-
 </div>
